@@ -1,11 +1,4 @@
 #  AI-Based Complexity Prediction Tool
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
-![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
-![Status](https://img.shields.io/badge/Status-Prototype-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
 ## Project Overview
 
 The **AI-Based Complexity Prediction Tool** is a machine-learning project that estimates the time-complexity category of Python code using extracted structural features.
@@ -91,44 +84,6 @@ AI_Based_Complexity_Prediction_Tool/
 - Python 3.10 or later
 - Visual Studio Code or another Python editor
 - Internet connection for installing dependencies
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/AI-Based-Complexity-Prediction-Tool.git
-```
-
-Replace `YOUR_USERNAME` and the repository URL with your actual GitHub details.
-
-### Step 2: Open the Project Folder
-
-```bash
-cd AI-Based-Complexity-Prediction-Tool
-```
-
-### Step 3: Install Dependencies
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-### Step 4: Train the Model
-
-```bash
-python train_model.py
-```
-
-This command generates the training dataset and saves the trained model.
-
-### Step 5: Run the Application
-
-```bash
-python -m streamlit run app.py
-```
-
-Open the local URL displayed in the terminal, usually:
-
-`http://localhost:8501`
 
 ## 📋 Requirements
 
@@ -223,7 +178,7 @@ Future evaluation should use independently labeled code samples and verified the
 
 ##  Author
 
-**Dheeraj Sai**
+**Dheeraj Sai Kommuri**
 
 B.Tech — Computer Science and Engineering (AI & ML)
 
